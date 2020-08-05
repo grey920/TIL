@@ -1,6 +1,5 @@
-[생활코딩 DataStructure 강의](https://youtu.be/186Q7eippsI) 정리
-
----
+[생활코딩 DataStructure 강의](https://youtu.be/186Q7eippsI) 정리   
+[이미지출처] : (https://opentutorials.org/module/1335/8636)
 
 # List의 Key Point!!
 
@@ -19,14 +18,15 @@
 
 예) 데이터를 추가하는 경우
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f44a181-13cb-4f31-8f45-6f241033741c/_2020-08-05__12.16.41.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f44a181-13cb-4f31-8f45-6f241033741c/_2020-08-05__12.16.41.png)
+![https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2882.png](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2882.png)   
+
 
 - 배열의 경우 3번 인덱스에 데이터를 추가한다면 원본의 데이터를 **덮어쓰게** 된다.
 - 리스트의 경우 **기존 데이터를 한 칸 뒤로 밀고**(인덱스 3번의 값이 4번으로 이동), 빈공간에 데이터를 추가한다.(새로운 인덱스 3번이 됨)
 
 예) 데이터를 삭제하는 경우
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac151ebb-4c90-4437-bc46-31545be59a21/_2020-08-05__12.22.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac151ebb-4c90-4437-bc46-31545be59a21/_2020-08-05__12.22.13.png)
+![배열데이터삭제](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2879.png)
 
 - 배열의 경우 데이터를 삭제할 시 비어있는 상태를 유지한다.
     - **인덱스**가 변하지 않는다 ⇒ 인덱스는 값에 대한 유일무이한 식별자이다!
@@ -56,7 +56,7 @@
 - JAVA : 배열과 리스트를 독립적으로 지원한다.
     - List를 두 개 지원 (LinkedList / ArrayList)
 
-    [ArrayList와 LinkedList 비교](https://www.notion.so/9411075472b24677ac716911c1a49f0d)
+    ![https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2885.png](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2885.png)
 
 ---
 
