@@ -16,12 +16,16 @@
 
 - 엘리먼트(데이터)의 **순서**가 더 중요하다
 
-예) 데이터를 추가하는 경우
+예) 데이터를 추가하는 경우   
+![https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2881.png](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2881.png)   
+이러한 데이터가 있을 때,
+
 
 ![https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2882.png](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2882.png)   
-
-
 - 배열의 경우 3번 인덱스에 데이터를 추가한다면 원본의 데이터를 **덮어쓰게** 된다.
+
+
+![https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2883.png](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2883.png)
 - 리스트의 경우 **기존 데이터를 한 칸 뒤로 밀고**(인덱스 3번의 값이 4번으로 이동), 빈공간에 데이터를 추가한다.(새로운 인덱스 3번이 됨)
 
 예) 데이터를 삭제하는 경우
