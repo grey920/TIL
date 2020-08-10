@@ -31,3 +31,5 @@
 - 입력 데이터가 정렬된 데이터이고 피벗이 배열의 처음 원소인 경우
 
 [https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUcbiY%2FbtqCVDGXzWI%2FDoo5JH2JN2y3m6qktKjLV0%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUcbiY%2FbtqCVDGXzWI%2FDoo5JH2JN2y3m6qktKjLV0%2Fimg.png)
+
+[출처] : [알고리즘 분할정복 방법 - 이진 탐색, 퀵 정렬 알고리즘](https://atoz-develop.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5-%EB%B0%A9%EB%B2%95-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%80%B5-%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
